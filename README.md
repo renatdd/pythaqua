@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![pythaqua's github stats](https://github-readme-stats.vercel.app/api?username=pythaqua&count_private=true&show_icons=true&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythaqua&layout=compact&hide=ruby&count_private=true&langs_count=10)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pythaqua) -->
