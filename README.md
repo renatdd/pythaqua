@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<script src="https://gist.githubusercontent.com/pythaqua/d1d3774cf9a83ca4739624a0aa1524ff/raw/0fe94534604a6ad3167081e067575f1cc78887b1/Weekly%2520development%2520breakdown"></script>
-
 <!--
 **pythaqua/pythaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
