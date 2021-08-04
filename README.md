@@ -1,13 +1,11 @@
 <img src="https://raw.githubusercontent.com/pythaqua/pythaqua/main/assets/create-the-things.gif" align="right" width=300>
 
-* Building a career as web developer, after trailing a pleasant path in humanities.  
-* For me, technology and society are inseparable. In cultures or software, code is only a mean.  
-* I have experience with Python, JavaScript, React, Django and Node.js / Express.  
-* I'm also particularly interested in methodologies and practices like Agile, SOLID and TDD.  
-* Communicative and open to talks.  
+Building a career as web developer, after trailing a pleasant path in humanities.  
+For me, technology and society are inseparable. In cultures or software, code is only a mean.  
+I have experience with Python, JavaScript, React, Django and Node.js / Express.  
+I'm also particularly interested in methodologies and practices like Agile, SOLID and TDD.  
+Communicative and open to talks.  
 
-<br>
-<br>
 <details>
   <summary><strong>🔧 Languages and Tools</strong></summary>
     
