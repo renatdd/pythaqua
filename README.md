@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pythaqua&show_icons=true&theme=bear" width = 400>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=pythaqua&theme=dark&hide_border=true" width = 400>
 <!--
 **pythaqua/pythaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
