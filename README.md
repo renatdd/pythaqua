@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/pythaqua/pythaqua/main/assets/create-the-things.gif" align="right" width=300>
 Building a career as web developer, after trailing a pleasant path in humanities.  
 For me, technology and society are inseparable. In cultures or software, code is only a mean.  
 I have experience with Python, JavaScript, React, Django and Node.js / Express.  
@@ -21,7 +21,6 @@ Communicative and open to talks.
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </details>
-
 
 <details>
   <summary><strong>📊 My Github Stats</strong></summary>
