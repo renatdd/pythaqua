@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/pythaqua/pythaqua/main/assets/create-the-things.gif" align="right" width=250>
 
-Building a career as web developer, after trailing a pleasant path in humanities.  
+Building a career as web developer after trailing a pleasant path in humanities.  
 For me, technology and society are inseparable.  
 In cultures or software, code is only a mean.  
 I have experience with Python, JavaScript, React, Django and Node.js / Express.  
