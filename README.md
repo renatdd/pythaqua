@@ -9,7 +9,8 @@ Communicative and open to talks.
 
 <details>
   <summary><strong>🔧 Languages and Tools</strong></summary>
-    
+  <br>  
+  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -26,6 +27,7 @@ Communicative and open to talks.
 
 <details>
   <summary><strong>📊 My Github Stats</strong></summary>
+  <br>
   <a href='https://github.com/rahul-jha98/github-stats-transparent'>
     
   ![Stats Overview](https://raw.githubusercontent.com/pythaqua/github-stats-transparent/output/generated/overview.svg)
