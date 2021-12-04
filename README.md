@@ -31,10 +31,13 @@ Communicative and open to talks.
   <br>
   <a href='https://github.com/rahul-jha98/github-stats-transparent'>
     
-  ![Stats Overview](https://raw.githubusercontent.com/pythaqua/github-stats-transparent/output/generated/overview.svg)
-  ![Most Used Languages](https://raw.githubusercontent.com/pythaqua/github-stats-transparent/output/generated/languages.svg)
+  ![pythaqua's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythaqua&show_icons=true&theme=dracula&show_icons=true&count_private=true&border_color=#2e4058&custom_title=pythaqua's+Github+stats)
+  [![pythaqua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pythaqua&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    <br>* Wakatime stats in VSCode only in last two weeks (free membership limit).<br>It also doesn't count Java coding (IntelliJ is my preference).<br> And, yep, Dracula is my favorite editor color theme.
   </a>
 </details>
+
+Generally I listen to [this](https://www.youtube.com/watch?v=pDv6y6txivM) [and this](https://www.youtube.com/watch?v=N-xNGZda6FY) kind of thing while coding... 
 
 We can get in touch through...  
 <a href="https://www.linkedin.com/in/renato-pereira-feitosa/">
