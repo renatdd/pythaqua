@@ -5,8 +5,9 @@ For me, technology and society are inseparable.
 In cultures or software, code is only a mean.  
 Programming is a vocation that I pursue with passion.  
 I have experience with Python, JavaScript, React, Django and Node.js / Express.  
-I'm also particularly interested in desing patterns, methodologies and practices like Agile, SOLID and TDD.  
-Communicative and open to talks.  
+Eargly learning Java / Spring Boot and Angular 2.  
+I'm also particularly interested in REST APIs, software architecture, desing patterns, methodologies and practices like Agile, SOLID and TDD.  
+Communicative and open to talks, so... Any criticisms from you about my code will be surely welcome.  
 
 <details>
   <summary><strong>🔧 Languages and Tools</strong></summary>
