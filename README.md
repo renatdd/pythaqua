@@ -7,7 +7,7 @@ I'm a fullstack web developer currently focused on back-end development.
 Programming is a vocation that I pursue with passion.  
 You can check [this repository](https://github.com/pythaqua/getting-to-know-my-work) if you wanna know more about my work.  
 
-###### I have experience in the following languages and tools: 
+##### I have experience in the following languages and tools: 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
@@ -16,7 +16,7 @@ You can check [this repository](https://github.com/pythaqua/getting-to-know-my-w
   ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-###### Learning:   
+##### Currently learning:   
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
